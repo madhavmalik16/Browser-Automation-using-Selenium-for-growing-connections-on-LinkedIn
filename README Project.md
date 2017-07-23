@@ -2,8 +2,8 @@
 
 Softwares Used:-
 
-Anaconda
-Python version 2.7
+Anaconda,
+Python version 2.7,
 Selenium version 3.4.1
 
 The above softwares were installed in a Windows machine and the automation code was successfully compiled on it.
